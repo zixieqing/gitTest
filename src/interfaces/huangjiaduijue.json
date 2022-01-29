@@ -1,0 +1,1654 @@
+{
+    "fightTeam": [
+        "2171685",
+        "1653508",
+        "1576469",
+        "1631994",
+        "1787120"
+    ],
+    "defenseTeam": [
+        "1787120",
+        "1653508",
+        "1631994",
+        "1837923",
+        "1743299"
+    ],
+    "refreshTime": 29626,
+    "remainTimes": 5,
+    "integral": 0,
+    "activityPoint": "84",
+    "victoryTimes": "1139",
+    "failureTimes": "38",
+    "activityPointDrawn": [],
+    "seasonRefreshTime": 256426,
+    "firstWinStatus": 0,
+    "matchOpponent": [
+        {
+            "opponentId": "1790954",
+            "avatar": "500512",
+            "avatarFrame": "500468",
+            "name": "春鬼",
+            "level": "106",
+            "medal": 41868,
+            "integral": 500,
+            "defenseTeam": [
+                {
+                    "id": "2291377",
+                    "playerId": "1790954",
+                    "cardId": "200017",
+                    "level": "71",
+                    "exp": "373902",
+                    "breakLevel": "5",
+                    "vigour": "100",
+                    "skill": {
+                        "10033": {
+                            "level": 16
+                        },
+                        "10034": {
+                            "level": 16
+                        }
+                    },
+                    "businessSkill": [],
+                    "favorability": "390",
+                    "favorabilityLevel": "2",
+                    "createTime": "2019-12-26 14:39:14",
+                    "cardName": null,
+                    "defaultSkinId": "250171",
+                    "marryTime": null,
+                    "isArtifactUnlock": "1",
+                    "lunaTowerHp": "1.0000",
+                    "lunaTowerEnergy": "0.0000",
+                    "artifactTalent": {
+                        "13": {
+                            "id": "18866",
+                            "playerId": "1790954",
+                            "playerCardId": "2291377",
+                            "talentId": "13",
+                            "level": "1",
+                            "type": "1",
+                            "fragmentNum": "45",
+                            "gemstoneId": null,
+                            "createTime": "2020-12-09 21:48:09"
+                        },
+                        "11": {
+                            "id": "18865",
+                            "playerId": "1790954",
+                            "playerCardId": "2291377",
+                            "talentId": "11",
+                            "level": "1",
+                            "type": "1",
+                            "fragmentNum": "45",
+                            "gemstoneId": null,
+                            "createTime": "2020-12-09 21:48:06"
+                        },
+                        "8": {
+                            "id": "18861",
+                            "playerId": "1790954",
+                            "playerCardId": "2291377",
+                            "talentId": "8",
+                            "level": "3",
+                            "type": "1",
+                            "fragmentNum": "87",
+                            "gemstoneId": null,
+                            "createTime": "2020-12-09 21:31:46"
+                        },
+                        "9": {
+                            "id": "18862",
+                            "playerId": "1790954",
+                            "playerCardId": "2291377",
+                            "talentId": "9",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "200",
+                            "gemstoneId": "283004",
+                            "createTime": "2020-12-09 21:33:48"
+                        },
+                        "6": {
+                            "id": "18859",
+                            "playerId": "1790954",
+                            "playerCardId": "2291377",
+                            "talentId": "6",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "100",
+                            "gemstoneId": "285104",
+                            "createTime": "2020-12-09 21:31:13"
+                        },
+                        "3": {
+                            "id": "18856",
+                            "playerId": "1790954",
+                            "playerCardId": "2291377",
+                            "talentId": "3",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "50",
+                            "gemstoneId": "282104",
+                            "createTime": "2020-12-09 21:22:16"
+                        },
+                        "2": {
+                            "id": "18855",
+                            "playerId": "1790954",
+                            "playerCardId": "2291377",
+                            "talentId": "2",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "27",
+                            "gemstoneId": null,
+                            "createTime": "2020-12-09 21:21:24"
+                        },
+                        "12": {
+                            "id": "18863",
+                            "playerId": "1790954",
+                            "playerCardId": "2291377",
+                            "talentId": "12",
+                            "level": "3",
+                            "type": "1",
+                            "fragmentNum": "114",
+                            "gemstoneId": null,
+                            "createTime": "2020-12-09 21:34:07"
+                        },
+                        "7": {
+                            "id": "18860",
+                            "playerId": "1790954",
+                            "playerCardId": "2291377",
+                            "talentId": "7",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "51",
+                            "gemstoneId": null,
+                            "createTime": "2020-12-09 21:31:35"
+                        },
+                        "10": {
+                            "id": "18864",
+                            "playerId": "1790954",
+                            "playerCardId": "2291377",
+                            "talentId": "10",
+                            "level": "3",
+                            "type": "1",
+                            "fragmentNum": "111",
+                            "gemstoneId": null,
+                            "createTime": "2020-12-09 21:34:19"
+                        },
+                        "4": {
+                            "id": "18857",
+                            "playerId": "1790954",
+                            "playerCardId": "2291377",
+                            "talentId": "4",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "36",
+                            "gemstoneId": null,
+                            "createTime": "2020-12-09 21:22:30"
+                        },
+                        "5": {
+                            "id": "18858",
+                            "playerId": "1790954",
+                            "playerCardId": "2291377",
+                            "talentId": "5",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "42",
+                            "gemstoneId": null,
+                            "createTime": "2020-12-09 21:22:36"
+                        },
+                        "1": {
+                            "id": "18854",
+                            "playerId": "1790954",
+                            "playerCardId": "2291377",
+                            "talentId": "1",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "21",
+                            "gemstoneId": null,
+                            "createTime": "2020-12-09 21:20:37"
+                        }
+                    },
+                    "bookLevel": [],
+                    "equippedHouseCatGene": [],
+                    "attack": 277,
+                    "defence": 244,
+                    "hp": 4221,
+                    "critRate": 2913,
+                    "critDamage": 5388,
+                    "attackRate": 7530,
+                    "pets": []
+                },
+                {
+                    "id": "2492116",
+                    "playerId": "1790954",
+                    "cardId": "200256",
+                    "level": "90",
+                    "exp": "814734",
+                    "breakLevel": "2",
+                    "vigour": "100",
+                    "skill": {
+                        "10511": {
+                            "level": 11
+                        },
+                        "10512": {
+                            "level": 11
+                        },
+                        "90256": {
+                            "level": 1
+                        }
+                    },
+                    "businessSkill": [],
+                    "favorability": "1018",
+                    "favorabilityLevel": "3",
+                    "createTime": "2020-12-25 00:47:04",
+                    "cardName": null,
+                    "defaultSkinId": "252560",
+                    "marryTime": null,
+                    "isArtifactUnlock": "1",
+                    "lunaTowerHp": "1.0000",
+                    "lunaTowerEnergy": "0.0000",
+                    "artifactTalent": {
+                        "1": {
+                            "id": "27555",
+                            "playerId": "1790954",
+                            "playerCardId": "2492116",
+                            "talentId": "1",
+                            "level": "1",
+                            "type": "1",
+                            "fragmentNum": "9",
+                            "gemstoneId": null,
+                            "createTime": "2021-11-02 22:47:35"
+                        }
+                    },
+                    "bookLevel": [],
+                    "equippedHouseCatGene": [],
+                    "attack": 300,
+                    "defence": 326,
+                    "hp": 8760,
+                    "critRate": 1971,
+                    "critDamage": 2452,
+                    "attackRate": 1581,
+                    "pets": []
+                },
+                {
+                    "id": "2502243",
+                    "playerId": "1790954",
+                    "cardId": "200132",
+                    "level": "90",
+                    "exp": "814734",
+                    "breakLevel": "2",
+                    "vigour": "100",
+                    "skill": {
+                        "10263": {
+                            "level": 21
+                        },
+                        "10264": {
+                            "level": 21
+                        },
+                        "90132": {
+                            "level": 1
+                        }
+                    },
+                    "businessSkill": [],
+                    "favorability": "1441",
+                    "favorabilityLevel": "4",
+                    "createTime": "2021-01-05 00:49:43",
+                    "cardName": null,
+                    "defaultSkinId": "251320",
+                    "marryTime": null,
+                    "isArtifactUnlock": "0",
+                    "lunaTowerHp": "1.0000",
+                    "lunaTowerEnergy": "0.0000",
+                    "artifactTalent": [],
+                    "bookLevel": [],
+                    "equippedHouseCatGene": [],
+                    "attack": 1266,
+                    "defence": 134,
+                    "hp": 3335,
+                    "critRate": 3037,
+                    "critDamage": 1653,
+                    "attackRate": 1481,
+                    "pets": []
+                },
+                {
+                    "id": "2518597",
+                    "playerId": "1790954",
+                    "cardId": "200156",
+                    "level": "105",
+                    "exp": "1334250",
+                    "breakLevel": "5",
+                    "vigour": "100",
+                    "skill": {
+                        "10311": {
+                            "level": 31
+                        },
+                        "10312": {
+                            "level": 23
+                        }
+                    },
+                    "businessSkill": [],
+                    "favorability": "2650",
+                    "favorabilityLevel": "6",
+                    "createTime": "2021-02-17 12:15:37",
+                    "cardName": null,
+                    "defaultSkinId": "251563",
+                    "marryTime": "1627784433",
+                    "isArtifactUnlock": "1",
+                    "lunaTowerHp": "1.0000",
+                    "lunaTowerEnergy": "0.0000",
+                    "pets": {
+                        "1": {
+                            "petId": "210054",
+                            "level": "30",
+                            "breakLevel": "8",
+                            "character": "6",
+                            "attr": [
+                                {
+                                    "type": "6",
+                                    "num": "350",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "6",
+                                    "num": "350",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "6",
+                                    "num": "350",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "6",
+                                    "num": "350",
+                                    "quality": "5"
+                                }
+                            ],
+                            "isEvolution": "0",
+                            "playerPetId": "8020585"
+                        }
+                    },
+                    "artifactTalent": {
+                        "8": {
+                            "id": "22297",
+                            "playerId": "1790954",
+                            "playerCardId": "2518597",
+                            "talentId": "8",
+                            "level": "3",
+                            "type": "1",
+                            "fragmentNum": "87",
+                            "gemstoneId": null,
+                            "createTime": "2021-03-12 22:18:47"
+                        },
+                        "2": {
+                            "id": "21639",
+                            "playerId": "1790954",
+                            "playerCardId": "2518597",
+                            "talentId": "2",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "27",
+                            "gemstoneId": null,
+                            "createTime": "2021-02-24 00:31:54"
+                        },
+                        "3": {
+                            "id": "22173",
+                            "playerId": "1790954",
+                            "playerCardId": "2518597",
+                            "talentId": "3",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "50",
+                            "gemstoneId": "285005",
+                            "createTime": "2021-03-10 00:46:26"
+                        },
+                        "6": {
+                            "id": "22295",
+                            "playerId": "1790954",
+                            "playerCardId": "2518597",
+                            "talentId": "6",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "100",
+                            "gemstoneId": "282105",
+                            "createTime": "2021-03-12 22:10:52"
+                        },
+                        "7": {
+                            "id": "22296",
+                            "playerId": "1790954",
+                            "playerCardId": "2518597",
+                            "talentId": "7",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "51",
+                            "gemstoneId": null,
+                            "createTime": "2021-03-12 22:13:00"
+                        },
+                        "1": {
+                            "id": "21638",
+                            "playerId": "1790954",
+                            "playerCardId": "2518597",
+                            "talentId": "1",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "21",
+                            "gemstoneId": null,
+                            "createTime": "2021-02-24 00:31:33"
+                        },
+                        "4": {
+                            "id": "22174",
+                            "playerId": "1790954",
+                            "playerCardId": "2518597",
+                            "talentId": "4",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "36",
+                            "gemstoneId": null,
+                            "createTime": "2021-03-10 00:48:21"
+                        },
+                        "5": {
+                            "id": "22294",
+                            "playerId": "1790954",
+                            "playerCardId": "2518597",
+                            "talentId": "5",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "42",
+                            "gemstoneId": null,
+                            "createTime": "2021-03-12 22:10:50"
+                        },
+                        "9": {
+                            "id": "22298",
+                            "playerId": "1790954",
+                            "playerCardId": "2518597",
+                            "talentId": "9",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "200",
+                            "gemstoneId": "280005",
+                            "createTime": "2021-03-12 22:21:45"
+                        }
+                    },
+                    "bookLevel": [],
+                    "equippedHouseCatGene": [],
+                    "attackRate": 24354,
+                    "attack": 3883,
+                    "defence": 374,
+                    "hp": 10834,
+                    "critRate": 4996,
+                    "critDamage": 2330
+                },
+                {
+                    "id": "2291400",
+                    "playerId": "1790954",
+                    "cardId": "200159",
+                    "level": "90",
+                    "exp": "814734",
+                    "breakLevel": "2",
+                    "vigour": "100",
+                    "skill": {
+                        "10317": {
+                            "level": 31
+                        },
+                        "10318": {
+                            "level": 31
+                        },
+                        "90159": {
+                            "level": 1
+                        }
+                    },
+                    "businessSkill": [],
+                    "favorability": "2131",
+                    "favorabilityLevel": "5",
+                    "createTime": "2019-12-26 14:47:02",
+                    "cardName": null,
+                    "defaultSkinId": "251590",
+                    "marryTime": null,
+                    "isArtifactUnlock": "1",
+                    "lunaTowerHp": "1.0000",
+                    "lunaTowerEnergy": "0.0000",
+                    "artifactTalent": {
+                        "4": {
+                            "id": "28275",
+                            "playerId": "1790954",
+                            "playerCardId": "2291400",
+                            "talentId": "4",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "36",
+                            "gemstoneId": null,
+                            "createTime": "2021-12-28 13:03:12"
+                        },
+                        "1": {
+                            "id": "28272",
+                            "playerId": "1790954",
+                            "playerCardId": "2291400",
+                            "talentId": "1",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "21",
+                            "gemstoneId": null,
+                            "createTime": "2021-12-28 13:02:44"
+                        },
+                        "3": {
+                            "id": "28274",
+                            "playerId": "1790954",
+                            "playerCardId": "2291400",
+                            "talentId": "3",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "50",
+                            "gemstoneId": "283105",
+                            "createTime": "2021-12-28 13:03:09"
+                        },
+                        "2": {
+                            "id": "28273",
+                            "playerId": "1790954",
+                            "playerCardId": "2291400",
+                            "talentId": "2",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "27",
+                            "gemstoneId": null,
+                            "createTime": "2021-12-28 13:02:47"
+                        },
+                        "5": {
+                            "id": "28276",
+                            "playerId": "1790954",
+                            "playerCardId": "2291400",
+                            "talentId": "5",
+                            "level": "1",
+                            "type": "1",
+                            "fragmentNum": "21",
+                            "gemstoneId": null,
+                            "createTime": "2021-12-28 13:03:17"
+                        }
+                    },
+                    "bookLevel": [],
+                    "equippedHouseCatGene": [],
+                    "attack": 1127,
+                    "defence": 219,
+                    "hp": 3637,
+                    "critRate": 4081,
+                    "critDamage": 1715,
+                    "attackRate": 9503,
+                    "pets": []
+                }
+            ],
+            "defenseTeamCards": "2291377,2492116,2502243,2518597,2291400",
+            "winIntegral": 100,
+            "winMedal": 100
+        },
+        {
+            "opponentId": "1931514",
+            "avatar": "500304",
+            "avatarFrame": "500470",
+            "name": "ヌカヅケ",
+            "level": "106",
+            "medal": 131922,
+            "integral": 500,
+            "defenseTeam": [
+                {
+                    "id": "2566171",
+                    "playerId": "1931514",
+                    "cardId": "200089",
+                    "level": "75",
+                    "exp": "444500",
+                    "breakLevel": "1",
+                    "vigour": "100",
+                    "skill": {
+                        "10177": {
+                            "level": 22
+                        },
+                        "10178": {
+                            "level": 23
+                        },
+                        "90089": {
+                            "level": 1
+                        }
+                    },
+                    "businessSkill": [],
+                    "favorability": "0",
+                    "favorabilityLevel": "1",
+                    "createTime": "2021-08-03 21:25:28",
+                    "cardName": null,
+                    "defaultSkinId": "250890",
+                    "marryTime": null,
+                    "isArtifactUnlock": "0",
+                    "lunaTowerHp": "1.0000",
+                    "lunaTowerEnergy": "0.0000",
+                    "pets": {
+                        "1": {
+                            "petId": "210006",
+                            "level": "30",
+                            "breakLevel": "9",
+                            "character": "3",
+                            "attr": [
+                                {
+                                    "type": "3",
+                                    "num": "595",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "3",
+                                    "num": "595",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "3",
+                                    "num": "595",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "3",
+                                    "num": "595",
+                                    "quality": "5"
+                                }
+                            ],
+                            "isEvolution": "0",
+                            "playerPetId": "9029506"
+                        }
+                    },
+                    "artifactTalent": [],
+                    "bookLevel": [],
+                    "equippedHouseCatGene": [],
+                    "hp": 11308,
+                    "attack": 254,
+                    "defence": 32,
+                    "critRate": 1068,
+                    "critDamage": 564,
+                    "attackRate": 2904
+                },
+                {
+                    "cardId": null
+                },
+                {
+                    "cardId": null
+                },
+                {
+                    "cardId": null
+                },
+                {
+                    "cardId": null
+                }
+            ],
+            "defenseTeamCards": "2566171,,,,",
+            "winIntegral": 100,
+            "winMedal": 100
+        },
+        {
+            "opponentId": "324943",
+            "avatar": "500457",
+            "avatarFrame": "500437",
+            "name": "もんぶらん",
+            "level": "106",
+            "medal": 77833,
+            "integral": 500,
+            "defenseTeam": [
+                {
+                    "id": "2578839",
+                    "playerId": "324943",
+                    "cardId": "200228",
+                    "level": "106",
+                    "exp": "1375344",
+                    "breakLevel": "5",
+                    "vigour": "100",
+                    "skill": {
+                        "10455": {
+                            "level": 36
+                        },
+                        "10456": {
+                            "level": 36
+                        },
+                        "90228": {
+                            "level": 1
+                        }
+                    },
+                    "businessSkill": [],
+                    "favorability": "2650",
+                    "favorabilityLevel": "6",
+                    "createTime": "2021-09-20 00:31:12",
+                    "cardName": null,
+                    "defaultSkinId": "252280",
+                    "marryTime": "1632495896",
+                    "isArtifactUnlock": "1",
+                    "lunaTowerHp": "0.0000",
+                    "lunaTowerEnergy": "0.0000",
+                    "pets": {
+                        "1": {
+                            "petId": "210060",
+                            "level": "30",
+                            "breakLevel": "12",
+                            "character": "1",
+                            "attr": [
+                                {
+                                    "type": "6",
+                                    "num": "600",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "6",
+                                    "num": "600",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "1",
+                                    "num": "70",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "1",
+                                    "num": "70",
+                                    "quality": "5"
+                                }
+                            ],
+                            "isEvolution": "1",
+                            "playerPetId": "5080066"
+                        }
+                    },
+                    "artifactTalent": {
+                        "8": {
+                            "id": "27830",
+                            "playerId": "324943",
+                            "playerCardId": "2578839",
+                            "talentId": "8",
+                            "level": "3",
+                            "type": "1",
+                            "fragmentNum": "87",
+                            "gemstoneId": null,
+                            "createTime": "2022-01-22 22:28:38"
+                        },
+                        "2": {
+                            "id": "25967",
+                            "playerId": "324943",
+                            "playerCardId": "2578839",
+                            "talentId": "2",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "27",
+                            "gemstoneId": null,
+                            "createTime": "2021-09-26 21:31:51"
+                        },
+                        "3": {
+                            "id": "26015",
+                            "playerId": "324943",
+                            "playerCardId": "2578839",
+                            "talentId": "3",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "50",
+                            "gemstoneId": "285205",
+                            "createTime": "2021-09-29 22:24:53"
+                        },
+                        "6": {
+                            "id": "27331",
+                            "playerId": "324943",
+                            "playerCardId": "2578839",
+                            "talentId": "6",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "100",
+                            "gemstoneId": "282105",
+                            "createTime": "2021-12-13 13:01:22"
+                        },
+                        "7": {
+                            "id": "27332",
+                            "playerId": "324943",
+                            "playerCardId": "2578839",
+                            "talentId": "7",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "51",
+                            "gemstoneId": null,
+                            "createTime": "2021-12-13 13:01:53"
+                        },
+                        "1": {
+                            "id": "25966",
+                            "playerId": "324943",
+                            "playerCardId": "2578839",
+                            "talentId": "1",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "21",
+                            "gemstoneId": null,
+                            "createTime": "2021-09-26 21:31:48"
+                        },
+                        "4": {
+                            "id": "26016",
+                            "playerId": "324943",
+                            "playerCardId": "2578839",
+                            "talentId": "4",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "36",
+                            "gemstoneId": null,
+                            "createTime": "2021-09-29 22:25:40"
+                        },
+                        "5": {
+                            "id": "26749",
+                            "playerId": "324943",
+                            "playerCardId": "2578839",
+                            "talentId": "5",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "42",
+                            "gemstoneId": null,
+                            "createTime": "2021-11-02 01:25:48"
+                        }
+                    },
+                    "bookLevel": [],
+                    "equippedHouseCatGene": [],
+                    "attackRate": 17522,
+                    "attack": 4893,
+                    "defence": 647,
+                    "hp": 14350,
+                    "critRate": 7212,
+                    "critDamage": 7435
+                },
+                {
+                    "id": "2609321",
+                    "playerId": "324943",
+                    "cardId": "200339",
+                    "level": "60",
+                    "exp": "222200",
+                    "breakLevel": "0",
+                    "vigour": "100",
+                    "skill": {
+                        "10677": {
+                            "level": 21
+                        },
+                        "10678": {
+                            "level": 21
+                        },
+                        "90339": {
+                            "level": 21
+                        }
+                    },
+                    "businessSkill": [],
+                    "favorability": "1818",
+                    "favorabilityLevel": "5",
+                    "createTime": "2022-01-20 00:11:27",
+                    "cardName": null,
+                    "defaultSkinId": "253390",
+                    "marryTime": null,
+                    "isArtifactUnlock": "0",
+                    "lunaTowerHp": "1.0000",
+                    "lunaTowerEnergy": "0.0000",
+                    "pets": {
+                        "1": {
+                            "petId": "210025",
+                            "level": "30",
+                            "breakLevel": "11",
+                            "character": "1",
+                            "attr": [
+                                {
+                                    "type": "1",
+                                    "num": "60",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "1",
+                                    "num": "60",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "1",
+                                    "num": "60",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "1",
+                                    "num": "60",
+                                    "quality": "5"
+                                }
+                            ],
+                            "isEvolution": "1",
+                            "playerPetId": "50081"
+                        }
+                    },
+                    "artifactTalent": [],
+                    "bookLevel": [],
+                    "equippedHouseCatGene": [],
+                    "attack": 2022,
+                    "defence": 56,
+                    "hp": 1243,
+                    "critRate": 1495,
+                    "critDamage": 1614,
+                    "attackRate": 1421
+                },
+                {
+                    "id": "1428894",
+                    "playerId": "324943",
+                    "cardId": "200091",
+                    "level": "100",
+                    "exp": "1157454",
+                    "breakLevel": "3",
+                    "vigour": "100",
+                    "skill": {
+                        "10181": {
+                            "level": 31
+                        },
+                        "10182": {
+                            "level": 30
+                        },
+                        "90091": {
+                            "level": 22
+                        }
+                    },
+                    "businessSkill": [],
+                    "favorability": "2650",
+                    "favorabilityLevel": "6",
+                    "createTime": "2018-11-27 16:18:46",
+                    "cardName": null,
+                    "defaultSkinId": "250910",
+                    "marryTime": "1561907545",
+                    "isArtifactUnlock": "1",
+                    "lunaTowerHp": "0.0000",
+                    "lunaTowerEnergy": "0.0000",
+                    "pets": {
+                        "1": {
+                            "petId": "210040",
+                            "level": "30",
+                            "breakLevel": "12",
+                            "character": "1",
+                            "attr": [
+                                {
+                                    "type": "1",
+                                    "num": "70",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "1",
+                                    "num": "70",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "1",
+                                    "num": "70",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "1",
+                                    "num": "70",
+                                    "quality": "5"
+                                }
+                            ],
+                            "isEvolution": "1",
+                            "playerPetId": "818773"
+                        }
+                    },
+                    "artifactTalent": {
+                        "3": {
+                            "id": "25804",
+                            "playerId": "324943",
+                            "playerCardId": "1428894",
+                            "talentId": "3",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "50",
+                            "gemstoneId": "285104",
+                            "createTime": "2021-09-17 10:51:38"
+                        },
+                        "4": {
+                            "id": "25805",
+                            "playerId": "324943",
+                            "playerCardId": "1428894",
+                            "talentId": "4",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "36",
+                            "gemstoneId": null,
+                            "createTime": "2021-09-17 10:51:48"
+                        },
+                        "2": {
+                            "id": "25803",
+                            "playerId": "324943",
+                            "playerCardId": "1428894",
+                            "talentId": "2",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "27",
+                            "gemstoneId": null,
+                            "createTime": "2021-09-17 10:51:14"
+                        },
+                        "6": {
+                            "id": "26514",
+                            "playerId": "324943",
+                            "playerCardId": "1428894",
+                            "talentId": "6",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "100",
+                            "gemstoneId": "280105",
+                            "createTime": "2021-10-21 00:51:17"
+                        },
+                        "5": {
+                            "id": "25806",
+                            "playerId": "324943",
+                            "playerCardId": "1428894",
+                            "talentId": "5",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "42",
+                            "gemstoneId": null,
+                            "createTime": "2021-09-17 10:52:11"
+                        },
+                        "1": {
+                            "id": "25802",
+                            "playerId": "324943",
+                            "playerCardId": "1428894",
+                            "talentId": "1",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "21",
+                            "gemstoneId": null,
+                            "createTime": "2021-09-17 10:51:09"
+                        }
+                    },
+                    "bookLevel": [],
+                    "equippedHouseCatGene": [],
+                    "attack": 4791,
+                    "defence": 206,
+                    "hp": 4669,
+                    "critRate": 5894,
+                    "critDamage": 4673,
+                    "attackRate": 6299
+                },
+                {
+                    "cardId": null
+                },
+                {
+                    "cardId": null
+                }
+            ],
+            "defenseTeamCards": "2578839,2609321,1428894,,",
+            "winIntegral": 100,
+            "winMedal": 100
+        },
+        {
+            "opponentId": "1238529",
+            "avatar": "500265",
+            "avatarFrame": "500257",
+            "name": "禮音",
+            "level": "108",
+            "medal": "48010",
+            "integral": 300,
+            "defenseTeam": [
+                {
+                    "id": "1481857",
+                    "playerId": "1238529",
+                    "cardId": "200048",
+                    "level": "108",
+                    "exp": "1460804",
+                    "breakLevel": "5",
+                    "vigour": "100",
+                    "skill": {
+                        "10095": {
+                            "level": 37
+                        },
+                        "10096": {
+                            "level": 36
+                        },
+                        "90048": {
+                            "level": 18
+                        }
+                    },
+                    "businessSkill": {
+                        "30096": {
+                            "level": 10
+                        }
+                    },
+                    "favorability": "2650",
+                    "favorabilityLevel": "6",
+                    "createTime": "2018-12-04 18:03:16",
+                    "cardName": null,
+                    "defaultSkinId": "250480",
+                    "marryTime": "1568815463",
+                    "isArtifactUnlock": "1",
+                    "lunaTowerHp": "0.0000",
+                    "lunaTowerEnergy": "0.0000",
+                    "pets": {
+                        "1": {
+                            "petId": "210018",
+                            "level": "30",
+                            "breakLevel": "12",
+                            "character": "4",
+                            "attr": [
+                                {
+                                    "type": "5",
+                                    "num": "700",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "3",
+                                    "num": "595",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "3",
+                                    "num": "595",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "6",
+                                    "num": "350",
+                                    "quality": "5"
+                                }
+                            ],
+                            "isEvolution": "1",
+                            "playerPetId": "4281160"
+                        }
+                    },
+                    "artifactTalent": {
+                        "5": {
+                            "id": "16024",
+                            "playerId": "1238529",
+                            "playerCardId": "1481857",
+                            "talentId": "5",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "42",
+                            "gemstoneId": null,
+                            "createTime": "2020-07-23 22:10:16"
+                        },
+                        "1": {
+                            "id": "8090",
+                            "playerId": "1238529",
+                            "playerCardId": "1481857",
+                            "talentId": "1",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "21",
+                            "gemstoneId": null,
+                            "createTime": "2020-02-29 00:58:54"
+                        },
+                        "6": {
+                            "id": "20060",
+                            "playerId": "1238529",
+                            "playerCardId": "1481857",
+                            "talentId": "6",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "100",
+                            "gemstoneId": "282205",
+                            "createTime": "2020-11-16 08:32:28"
+                        },
+                        "7": {
+                            "id": "20800",
+                            "playerId": "1238529",
+                            "playerCardId": "1481857",
+                            "talentId": "7",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "51",
+                            "gemstoneId": null,
+                            "createTime": "2020-12-09 18:27:59"
+                        },
+                        "2": {
+                            "id": "8091",
+                            "playerId": "1238529",
+                            "playerCardId": "1481857",
+                            "talentId": "2",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "27",
+                            "gemstoneId": null,
+                            "createTime": "2020-02-29 00:59:08"
+                        },
+                        "3": {
+                            "id": "13927",
+                            "playerId": "1238529",
+                            "playerCardId": "1481857",
+                            "talentId": "3",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "50",
+                            "gemstoneId": "283105",
+                            "createTime": "2020-05-26 10:09:43"
+                        },
+                        "4": {
+                            "id": "14955",
+                            "playerId": "1238529",
+                            "playerCardId": "1481857",
+                            "talentId": "4",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "36",
+                            "gemstoneId": null,
+                            "createTime": "2020-07-02 20:29:49"
+                        }
+                    },
+                    "bookLevel": [],
+                    "equippedHouseCatGene": [],
+                    "critDamage": 10745,
+                    "hp": 17885,
+                    "attackRate": 11119,
+                    "attack": 2492,
+                    "defence": 404,
+                    "critRate": 6441
+                },
+                {
+                    "id": "1563664",
+                    "playerId": "1238529",
+                    "cardId": "200004",
+                    "level": "100",
+                    "exp": "1119824",
+                    "breakLevel": "3",
+                    "vigour": "64",
+                    "skill": {
+                        "10007": {
+                            "level": 13
+                        },
+                        "10008": {
+                            "level": 12
+                        },
+                        "90004": {
+                            "level": 10
+                        }
+                    },
+                    "businessSkill": [],
+                    "favorability": "264",
+                    "favorabilityLevel": "2",
+                    "createTime": "2018-12-17 09:21:54",
+                    "cardName": null,
+                    "defaultSkinId": "250040",
+                    "marryTime": null,
+                    "isArtifactUnlock": "0",
+                    "lunaTowerHp": "1.0000",
+                    "lunaTowerEnergy": "0.0000",
+                    "pets": {
+                        "1": {
+                            "petId": "210005",
+                            "level": "30",
+                            "breakLevel": "7",
+                            "character": "4",
+                            "attr": [
+                                {
+                                    "type": "4",
+                                    "num": "160",
+                                    "quality": "4"
+                                },
+                                {
+                                    "type": "6",
+                                    "num": "320",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "4",
+                                    "num": "160",
+                                    "quality": "4"
+                                },
+                                {
+                                    "type": "3",
+                                    "num": "170",
+                                    "quality": "4"
+                                }
+                            ],
+                            "isEvolution": "0",
+                            "playerPetId": "1974357"
+                        }
+                    },
+                    "artifactTalent": [],
+                    "bookLevel": [],
+                    "equippedHouseCatGene": [],
+                    "critRate": 3232,
+                    "attackRate": 1957,
+                    "hp": 6792,
+                    "attack": 523,
+                    "defence": 473,
+                    "critDamage": 2492
+                },
+                {
+                    "id": "1481631",
+                    "playerId": "1238529",
+                    "cardId": "200012",
+                    "level": "107",
+                    "exp": "1402544",
+                    "breakLevel": "5",
+                    "vigour": "100",
+                    "skill": {
+                        "10023": {
+                            "level": 28
+                        },
+                        "10024": {
+                            "level": 24
+                        },
+                        "90012": {
+                            "level": 12
+                        }
+                    },
+                    "businessSkill": {
+                        "30104": {
+                            "level": 5
+                        }
+                    },
+                    "favorability": "2650",
+                    "favorabilityLevel": "6",
+                    "createTime": "2018-12-04 17:21:21",
+                    "cardName": null,
+                    "defaultSkinId": "250124",
+                    "marryTime": "1588208769",
+                    "isArtifactUnlock": "1",
+                    "lunaTowerHp": "0.0000",
+                    "lunaTowerEnergy": "0.0000",
+                    "pets": {
+                        "1": {
+                            "petId": "210021",
+                            "level": "30",
+                            "breakLevel": "8",
+                            "character": "6",
+                            "attr": [
+                                {
+                                    "type": "3",
+                                    "num": "180",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "3",
+                                    "num": "180",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "3",
+                                    "num": "180",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "5",
+                                    "num": "250",
+                                    "quality": "5"
+                                }
+                            ],
+                            "isEvolution": "0",
+                            "playerPetId": "1929843"
+                        }
+                    },
+                    "artifactTalent": {
+                        "1": {
+                            "id": "8092",
+                            "playerId": "1238529",
+                            "playerCardId": "1481631",
+                            "talentId": "1",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "21",
+                            "gemstoneId": null,
+                            "createTime": "2020-02-29 01:04:23"
+                        },
+                        "4": {
+                            "id": "11078",
+                            "playerId": "1238529",
+                            "playerCardId": "1481631",
+                            "talentId": "4",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "36",
+                            "gemstoneId": null,
+                            "createTime": "2020-04-06 21:18:45"
+                        },
+                        "5": {
+                            "id": "11079",
+                            "playerId": "1238529",
+                            "playerCardId": "1481631",
+                            "talentId": "5",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "42",
+                            "gemstoneId": null,
+                            "createTime": "2020-04-06 21:18:49"
+                        },
+                        "11": {
+                            "id": "19721",
+                            "playerId": "1238529",
+                            "playerCardId": "1481631",
+                            "talentId": "11",
+                            "level": "3",
+                            "type": "1",
+                            "fragmentNum": "126",
+                            "gemstoneId": null,
+                            "createTime": "2020-11-04 22:45:22"
+                        },
+                        "8": {
+                            "id": "11618",
+                            "playerId": "1238529",
+                            "playerCardId": "1481631",
+                            "talentId": "8",
+                            "level": "3",
+                            "type": "1",
+                            "fragmentNum": "87",
+                            "gemstoneId": null,
+                            "createTime": "2020-04-15 23:33:47"
+                        },
+                        "9": {
+                            "id": "14851",
+                            "playerId": "1238529",
+                            "playerCardId": "1481631",
+                            "talentId": "9",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "200",
+                            "gemstoneId": "280004",
+                            "createTime": "2020-06-29 18:17:37"
+                        },
+                        "6": {
+                            "id": "11616",
+                            "playerId": "1238529",
+                            "playerCardId": "1481631",
+                            "talentId": "6",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "100",
+                            "gemstoneId": "282005",
+                            "createTime": "2020-04-15 23:33:33"
+                        },
+                        "3": {
+                            "id": "9483",
+                            "playerId": "1238529",
+                            "playerCardId": "1481631",
+                            "talentId": "3",
+                            "level": "1",
+                            "type": "2",
+                            "fragmentNum": "50",
+                            "gemstoneId": "283004",
+                            "createTime": "2020-04-01 13:38:16"
+                        },
+                        "2": {
+                            "id": "8093",
+                            "playerId": "1238529",
+                            "playerCardId": "1481631",
+                            "talentId": "2",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "27",
+                            "gemstoneId": null,
+                            "createTime": "2020-02-29 01:04:27"
+                        },
+                        "12": {
+                            "id": "15187",
+                            "playerId": "1238529",
+                            "playerCardId": "1481631",
+                            "talentId": "12",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "78",
+                            "gemstoneId": null,
+                            "createTime": "2020-07-11 00:24:38"
+                        },
+                        "7": {
+                            "id": "11617",
+                            "playerId": "1238529",
+                            "playerCardId": "1481631",
+                            "talentId": "7",
+                            "level": "2",
+                            "type": "1",
+                            "fragmentNum": "51",
+                            "gemstoneId": null,
+                            "createTime": "2020-04-15 23:33:42"
+                        },
+                        "10": {
+                            "id": "16341",
+                            "playerId": "1238529",
+                            "playerCardId": "1481631",
+                            "talentId": "10",
+                            "level": "3",
+                            "type": "1",
+                            "fragmentNum": "111",
+                            "gemstoneId": null,
+                            "createTime": "2020-07-28 18:56:40"
+                        }
+                    },
+                    "bookLevel": [],
+                    "equippedHouseCatGene": [],
+                    "hp": 7527,
+                    "critDamage": 8732,
+                    "attack": 1034,
+                    "defence": 240,
+                    "critRate": 7815,
+                    "attackRate": 6360
+                },
+                {
+                    "id": "1481926",
+                    "playerId": "1238529",
+                    "cardId": "200024",
+                    "level": "107",
+                    "exp": "1428804",
+                    "breakLevel": "5",
+                    "vigour": "100",
+                    "skill": {
+                        "10047": {
+                            "level": 28
+                        },
+                        "10048": {
+                            "level": 26
+                        },
+                        "90024": {
+                            "level": 14
+                        }
+                    },
+                    "businessSkill": [],
+                    "favorability": "2650",
+                    "favorabilityLevel": "6",
+                    "createTime": "2018-12-04 18:11:24",
+                    "cardName": null,
+                    "defaultSkinId": "250241",
+                    "marryTime": "1579535078",
+                    "isArtifactUnlock": "0",
+                    "lunaTowerHp": "0.0000",
+                    "lunaTowerEnergy": "0.0000",
+                    "pets": {
+                        "1": {
+                            "petId": "210018",
+                            "level": "30",
+                            "breakLevel": "10",
+                            "character": "3",
+                            "attr": [
+                                {
+                                    "type": "3",
+                                    "num": "425",
+                                    "quality": "4"
+                                },
+                                {
+                                    "type": "6",
+                                    "num": "350",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "5",
+                                    "num": "700",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "5",
+                                    "num": "700",
+                                    "quality": "5"
+                                }
+                            ],
+                            "isEvolution": "1",
+                            "playerPetId": "2288575"
+                        }
+                    },
+                    "artifactTalent": [],
+                    "bookLevel": [],
+                    "equippedHouseCatGene": [],
+                    "hp": 11005,
+                    "attackRate": 5493,
+                    "critDamage": 11549,
+                    "attack": 1864,
+                    "defence": 481,
+                    "critRate": 7801
+                },
+                {
+                    "id": "1611977",
+                    "playerId": "1238529",
+                    "cardId": "200132",
+                    "level": "75",
+                    "exp": "433724",
+                    "breakLevel": "1",
+                    "vigour": "100",
+                    "skill": {
+                        "10263": {
+                            "level": 18
+                        },
+                        "10264": {
+                            "level": 14
+                        },
+                        "90132": {
+                            "level": 11
+                        }
+                    },
+                    "businessSkill": [],
+                    "favorability": "346",
+                    "favorabilityLevel": "2",
+                    "createTime": "2018-12-28 19:17:14",
+                    "cardName": null,
+                    "defaultSkinId": "251320",
+                    "marryTime": null,
+                    "isArtifactUnlock": "0",
+                    "lunaTowerHp": "1.0000",
+                    "lunaTowerEnergy": "0.0000",
+                    "pets": {
+                        "1": {
+                            "petId": "210006",
+                            "level": "30",
+                            "breakLevel": "6",
+                            "character": "1",
+                            "attr": [
+                                {
+                                    "type": "1",
+                                    "num": "60",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "6",
+                                    "num": "350",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "4",
+                                    "num": "450",
+                                    "quality": "5"
+                                },
+                                {
+                                    "type": "3",
+                                    "num": "425",
+                                    "quality": "4"
+                                }
+                            ],
+                            "isEvolution": "0",
+                            "playerPetId": "2057836"
+                        }
+                    },
+                    "artifactTalent": [],
+                    "bookLevel": [],
+                    "equippedHouseCatGene": [],
+                    "attack": 929,
+                    "attackRate": 1750,
+                    "critRate": 2997,
+                    "hp": 2689,
+                    "defence": 84,
+                    "critDamage": 1153
+                }
+            ],
+            "defenseTeamCards": "1481857,1563664,1481631,1481926,1611977",
+            "winIntegral": 100,
+            "winMedal": 100
+        }
+    ],
+    "buyPvpNum": 2,
+    "matchFreeTimes": 2
+}
